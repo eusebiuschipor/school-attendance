@@ -1,0 +1,25 @@
+{
+  "days": "12",
+  "students": [
+    {
+      "name": "Slappy the Frog",
+      "attendance": []
+    },
+    {
+      "name": "Lilly the Lizard",
+      "attendance": []
+    },
+    {
+      "name": "Paulrus the Walrus",
+      "attendance": []
+    },
+    {
+      "name": "Gregory the Goat",
+      "attendance": []
+    },
+    {
+      "name": "Adam the Anaconda",
+      "attendance": []
+    }
+  ]
+}
